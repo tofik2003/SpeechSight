@@ -1,0 +1,39 @@
+{
+  "model_format": "quantized_npz_int8",
+  "model_version": "2.0.0",
+  "input_shapes": {
+    "mouth_crops": [
+      null,
+      96,
+      96
+    ],
+    "audio_waveform": [
+      null
+    ],
+    "sample_rate_hz": 16000
+  },
+  "output_shapes": {
+    "ctc_log_probs": [
+      null,
+      32
+    ]
+  },
+  "parameters": {
+    "d_visual": 64,
+    "d_audio": 64,
+    "d_fused": 128,
+    "vocab_size": 32
+  },
+  "quantization": {
+    "scheme": "symmetric_int8",
+    "original_size_bytes": 512272,
+    "compressed_size_bytes": 60722,
+    "compression_reduction_percent": 88.15
+  },
+  "deployment_targets": [
+    "Android (Compose / Room / Media3 / NNAPI)",
+    "On-Device Termux / FastAPI Edge Server",
+    "Browser WebAssembly / ONNX"
+  ],
+  "exported_at": "2026-08-31 12:49:41 UTC"
+}

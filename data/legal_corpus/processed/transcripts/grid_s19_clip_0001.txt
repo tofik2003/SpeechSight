@@ -1,0 +1,1 @@
+Real time subtitle generation enables live accessible video captions.

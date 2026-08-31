@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpeechSight AI</string>
+    <string name="tagline">Visual intelligence for human speech</string>
+    <string name="title_upload">Select or Record Video</string>
+    <string name="title_result">Timestamped Subtitles</string>
+    <string name="mode_av">Audio + Visual</string>
+    <string name="mode_silent">Silent Lip Reading</string>
+    <string name="mode_audio_only">Audio Only</string>
+    <string name="action_start">Start Analysis</string>
+    <string name="action_export">Export Subtitles</string>
+    <string name="action_wipe">Privacy Wipe</string>
+    <string name="privacy_notice">Local-first ephemeral processing. Temporary frames are automatically deleted.</string>
+</resources>

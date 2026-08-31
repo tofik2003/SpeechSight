@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "speechsight"
+version = "1.0.0"
+description = "SpeechSight AI - Visual intelligence for human speech"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.110.0",
+    "uvicorn>=0.28.0",
+    "pydantic>=2.6.0",
+    "numpy>=1.24.0",
+    "scipy>=1.11.0",
+    "opencv-python-headless>=4.8.0",
+    "pillow>=10.0.0",
+    "python-multipart>=0.0.9",
+    "httpx>=0.25.0"
+]

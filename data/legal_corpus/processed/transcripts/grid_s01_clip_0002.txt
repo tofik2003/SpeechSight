@@ -1,0 +1,1 @@
+SpeechSight combines speech recognition with visual lip movement analysis.

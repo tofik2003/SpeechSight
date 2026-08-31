@@ -1,0 +1,1 @@
+Visual speech recognition provides transcription when audio is muted.

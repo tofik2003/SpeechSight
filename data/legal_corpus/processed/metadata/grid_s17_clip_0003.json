@@ -1,0 +1,22 @@
+{
+  "video_file": "grid_s17_clip_0003.mp4",
+  "audio_file": "grid_s17_clip_0003.wav",
+  "transcript_file": "grid_s17_clip_0003.txt",
+  "mouth_file": "grid_s17_clip_0003_mouth.npy",
+  "optional_metadata": {
+    "speaker_id": "grid_s17",
+    "language": "en",
+    "start_time": 0.0,
+    "end_time": 4.72,
+    "frame_count": 118,
+    "duration_sec": 4.72,
+    "word_count": 8
+  },
+  "legal_provenance": {
+    "consent_id": "CONSENT-GRID-S17",
+    "license_type": "GRID-Open-Academic-License",
+    "speaker_alias": "GRID Contributor S17",
+    "provenance_hash": "d2bf43899ae61a8d",
+    "verified_legal_to_train": true
+  }
+}

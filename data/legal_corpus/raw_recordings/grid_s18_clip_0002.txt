@@ -1,0 +1,1 @@
+Active speaker detection tracks which person in the video is currently speaking.

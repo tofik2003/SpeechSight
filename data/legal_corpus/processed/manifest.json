@@ -1,0 +1,1775 @@
+{
+  "dataset_name": "SpeechSight_AVSR_Dataset",
+  "total_samples": 80,
+  "splits": {
+    "train_count": 64,
+    "val_count": 8,
+    "test_count": 8
+  },
+  "train": [
+    {
+      "video_file": "grid_s08_clip_0003.mp4",
+      "audio_file": "grid_s08_clip_0003.wav",
+      "transcript_file": "grid_s08_clip_0003.txt",
+      "mouth_file": "grid_s08_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s08",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.44,
+        "frame_count": 111,
+        "duration_sec": 4.44,
+        "word_count": 7
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S08",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S08",
+        "provenance_hash": "19154206d9033afd",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s01_clip_0001.mp4",
+      "audio_file": "grid_s01_clip_0001.wav",
+      "transcript_file": "grid_s01_clip_0001.txt",
+      "mouth_file": "grid_s01_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s01",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.72,
+        "frame_count": 118,
+        "duration_sec": 4.72,
+        "word_count": 8
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S01",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S01",
+        "provenance_hash": "5666d21eb7ed24c9",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s06_clip_0003.mp4",
+      "audio_file": "grid_s06_clip_0003.wav",
+      "transcript_file": "grid_s06_clip_0003.txt",
+      "mouth_file": "grid_s06_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s06",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S06",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S06",
+        "provenance_hash": "892fdf963a122536",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s08_clip_0004.mp4",
+      "audio_file": "grid_s08_clip_0004.wav",
+      "transcript_file": "grid_s08_clip_0004.txt",
+      "mouth_file": "grid_s08_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s08",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.72,
+        "frame_count": 118,
+        "duration_sec": 4.72,
+        "word_count": 8
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S08",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S08",
+        "provenance_hash": "19154206d9033afd",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s05_clip_0003.mp4",
+      "audio_file": "grid_s05_clip_0003.wav",
+      "transcript_file": "grid_s05_clip_0003.txt",
+      "mouth_file": "grid_s05_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s05",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.84,
+        "frame_count": 146,
+        "duration_sec": 5.84,
+        "word_count": 12
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S05",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S05",
+        "provenance_hash": "549401d2b9386cc4",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s08_clip_0001.mp4",
+      "audio_file": "grid_s08_clip_0001.wav",
+      "transcript_file": "grid_s08_clip_0001.txt",
+      "mouth_file": "grid_s08_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s08",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S08",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S08",
+        "provenance_hash": "19154206d9033afd",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s03_clip_0003.mp4",
+      "audio_file": "grid_s03_clip_0003.wav",
+      "transcript_file": "grid_s03_clip_0003.txt",
+      "mouth_file": "grid_s03_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s03",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.44,
+        "frame_count": 111,
+        "duration_sec": 4.44,
+        "word_count": 7
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S03",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S03",
+        "provenance_hash": "ad4eaa2c7bb4821c",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s18_clip_0003.mp4",
+      "audio_file": "grid_s18_clip_0003.wav",
+      "transcript_file": "grid_s18_clip_0003.txt",
+      "mouth_file": "grid_s18_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s18",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.44,
+        "frame_count": 111,
+        "duration_sec": 4.44,
+        "word_count": 7
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S18",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S18",
+        "provenance_hash": "fde2964b987acf85",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s02_clip_0001.mp4",
+      "audio_file": "grid_s02_clip_0001.wav",
+      "transcript_file": "grid_s02_clip_0001.txt",
+      "mouth_file": "grid_s02_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s02",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S02",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S02",
+        "provenance_hash": "9aedd568a0e87894",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s04_clip_0001.mp4",
+      "audio_file": "grid_s04_clip_0001.wav",
+      "transcript_file": "grid_s04_clip_0001.txt",
+      "mouth_file": "grid_s04_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s04",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S04",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S04",
+        "provenance_hash": "ec4fa2dc5ae15884",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s13_clip_0002.mp4",
+      "audio_file": "grid_s13_clip_0002.wav",
+      "transcript_file": "grid_s13_clip_0002.txt",
+      "mouth_file": "grid_s13_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s13",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.84,
+        "frame_count": 146,
+        "duration_sec": 5.84,
+        "word_count": 12
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S13",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S13",
+        "provenance_hash": "d7dc886b5ec6646a",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s09_clip_0002.mp4",
+      "audio_file": "grid_s09_clip_0002.wav",
+      "transcript_file": "grid_s09_clip_0002.txt",
+      "mouth_file": "grid_s09_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s09",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.28,
+        "frame_count": 132,
+        "duration_sec": 5.28,
+        "word_count": 10
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S09",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S09",
+        "provenance_hash": "ef9e0cdcc4a2afa8",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s17_clip_0004.mp4",
+      "audio_file": "grid_s17_clip_0004.wav",
+      "transcript_file": "grid_s17_clip_0004.txt",
+      "mouth_file": "grid_s17_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s17",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.28,
+        "frame_count": 132,
+        "duration_sec": 5.28,
+        "word_count": 10
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S17",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S17",
+        "provenance_hash": "d2bf43899ae61a8d",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s09_clip_0004.mp4",
+      "audio_file": "grid_s09_clip_0004.wav",
+      "transcript_file": "grid_s09_clip_0004.txt",
+      "mouth_file": "grid_s09_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s09",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S09",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S09",
+        "provenance_hash": "ef9e0cdcc4a2afa8",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s18_clip_0001.mp4",
+      "audio_file": "grid_s18_clip_0001.wav",
+      "transcript_file": "grid_s18_clip_0001.txt",
+      "mouth_file": "grid_s18_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s18",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S18",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S18",
+        "provenance_hash": "fde2964b987acf85",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s12_clip_0002.mp4",
+      "audio_file": "grid_s12_clip_0002.wav",
+      "transcript_file": "grid_s12_clip_0002.txt",
+      "mouth_file": "grid_s12_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s12",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.72,
+        "frame_count": 118,
+        "duration_sec": 4.72,
+        "word_count": 8
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S12",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S12",
+        "provenance_hash": "7dca9b9e0c773371",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s19_clip_0002.mp4",
+      "audio_file": "grid_s19_clip_0002.wav",
+      "transcript_file": "grid_s19_clip_0002.txt",
+      "mouth_file": "grid_s19_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s19",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.28,
+        "frame_count": 132,
+        "duration_sec": 5.28,
+        "word_count": 10
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S19",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S19",
+        "provenance_hash": "7bb4d75ac3dc5a43",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s16_clip_0002.mp4",
+      "audio_file": "grid_s16_clip_0002.wav",
+      "transcript_file": "grid_s16_clip_0002.txt",
+      "mouth_file": "grid_s16_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s16",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S16",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S16",
+        "provenance_hash": "db406b0ba79e8ee0",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s14_clip_0004.mp4",
+      "audio_file": "grid_s14_clip_0004.wav",
+      "transcript_file": "grid_s14_clip_0004.txt",
+      "mouth_file": "grid_s14_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s14",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S14",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S14",
+        "provenance_hash": "56448fad9f0ed36c",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s11_clip_0001.mp4",
+      "audio_file": "grid_s11_clip_0001.wav",
+      "transcript_file": "grid_s11_clip_0001.txt",
+      "mouth_file": "grid_s11_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s11",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.72,
+        "frame_count": 118,
+        "duration_sec": 4.72,
+        "word_count": 8
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S11",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S11",
+        "provenance_hash": "c8d98533c68f12ee",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s03_clip_0002.mp4",
+      "audio_file": "grid_s03_clip_0002.wav",
+      "transcript_file": "grid_s03_clip_0002.txt",
+      "mouth_file": "grid_s03_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s03",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.84,
+        "frame_count": 146,
+        "duration_sec": 5.84,
+        "word_count": 12
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S03",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S03",
+        "provenance_hash": "ad4eaa2c7bb4821c",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s17_clip_0001.mp4",
+      "audio_file": "grid_s17_clip_0001.wav",
+      "transcript_file": "grid_s17_clip_0001.txt",
+      "mouth_file": "grid_s17_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s17",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S17",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S17",
+        "provenance_hash": "d2bf43899ae61a8d",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s02_clip_0002.mp4",
+      "audio_file": "grid_s02_clip_0002.wav",
+      "transcript_file": "grid_s02_clip_0002.txt",
+      "mouth_file": "grid_s02_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s02",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.72,
+        "frame_count": 118,
+        "duration_sec": 4.72,
+        "word_count": 8
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S02",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S02",
+        "provenance_hash": "9aedd568a0e87894",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s12_clip_0004.mp4",
+      "audio_file": "grid_s12_clip_0004.wav",
+      "transcript_file": "grid_s12_clip_0004.txt",
+      "mouth_file": "grid_s12_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s12",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.28,
+        "frame_count": 132,
+        "duration_sec": 5.28,
+        "word_count": 10
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S12",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S12",
+        "provenance_hash": "7dca9b9e0c773371",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s09_clip_0003.mp4",
+      "audio_file": "grid_s09_clip_0003.wav",
+      "transcript_file": "grid_s09_clip_0003.txt",
+      "mouth_file": "grid_s09_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s09",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.56,
+        "frame_count": 139,
+        "duration_sec": 5.56,
+        "word_count": 11
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S09",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S09",
+        "provenance_hash": "ef9e0cdcc4a2afa8",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s16_clip_0003.mp4",
+      "audio_file": "grid_s16_clip_0003.wav",
+      "transcript_file": "grid_s16_clip_0003.txt",
+      "mouth_file": "grid_s16_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s16",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S16",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S16",
+        "provenance_hash": "db406b0ba79e8ee0",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s11_clip_0003.mp4",
+      "audio_file": "grid_s11_clip_0003.wav",
+      "transcript_file": "grid_s11_clip_0003.txt",
+      "mouth_file": "grid_s11_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s11",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S11",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S11",
+        "provenance_hash": "c8d98533c68f12ee",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s14_clip_0003.mp4",
+      "audio_file": "grid_s14_clip_0003.wav",
+      "transcript_file": "grid_s14_clip_0003.txt",
+      "mouth_file": "grid_s14_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s14",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.56,
+        "frame_count": 139,
+        "duration_sec": 5.56,
+        "word_count": 11
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S14",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S14",
+        "provenance_hash": "56448fad9f0ed36c",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s05_clip_0001.mp4",
+      "audio_file": "grid_s05_clip_0001.wav",
+      "transcript_file": "grid_s05_clip_0001.txt",
+      "mouth_file": "grid_s05_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s05",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.28,
+        "frame_count": 132,
+        "duration_sec": 5.28,
+        "word_count": 10
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S05",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S05",
+        "provenance_hash": "549401d2b9386cc4",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s10_clip_0004.mp4",
+      "audio_file": "grid_s10_clip_0004.wav",
+      "transcript_file": "grid_s10_clip_0004.txt",
+      "mouth_file": "grid_s10_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s10",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S10",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S10",
+        "provenance_hash": "a4b170c1beb929ad",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s15_clip_0001.mp4",
+      "audio_file": "grid_s15_clip_0001.wav",
+      "transcript_file": "grid_s15_clip_0001.txt",
+      "mouth_file": "grid_s15_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s15",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.28,
+        "frame_count": 132,
+        "duration_sec": 5.28,
+        "word_count": 10
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S15",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S15",
+        "provenance_hash": "872696259cf48f71",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s20_clip_0004.mp4",
+      "audio_file": "grid_s20_clip_0004.wav",
+      "transcript_file": "grid_s20_clip_0004.txt",
+      "mouth_file": "grid_s20_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s20",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S20",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S20",
+        "provenance_hash": "6fda1bbdae388ece",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s02_clip_0004.mp4",
+      "audio_file": "grid_s02_clip_0004.wav",
+      "transcript_file": "grid_s02_clip_0004.txt",
+      "mouth_file": "grid_s02_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s02",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.28,
+        "frame_count": 132,
+        "duration_sec": 5.28,
+        "word_count": 10
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S02",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S02",
+        "provenance_hash": "9aedd568a0e87894",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s13_clip_0003.mp4",
+      "audio_file": "grid_s13_clip_0003.wav",
+      "transcript_file": "grid_s13_clip_0003.txt",
+      "mouth_file": "grid_s13_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s13",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.44,
+        "frame_count": 111,
+        "duration_sec": 4.44,
+        "word_count": 7
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S13",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S13",
+        "provenance_hash": "d7dc886b5ec6646a",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s14_clip_0002.mp4",
+      "audio_file": "grid_s14_clip_0002.wav",
+      "transcript_file": "grid_s14_clip_0002.txt",
+      "mouth_file": "grid_s14_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s14",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.28,
+        "frame_count": 132,
+        "duration_sec": 5.28,
+        "word_count": 10
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S14",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S14",
+        "provenance_hash": "56448fad9f0ed36c",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s05_clip_0004.mp4",
+      "audio_file": "grid_s05_clip_0004.wav",
+      "transcript_file": "grid_s05_clip_0004.txt",
+      "mouth_file": "grid_s05_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s05",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S05",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S05",
+        "provenance_hash": "549401d2b9386cc4",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s17_clip_0003.mp4",
+      "audio_file": "grid_s17_clip_0003.wav",
+      "transcript_file": "grid_s17_clip_0003.txt",
+      "mouth_file": "grid_s17_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s17",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.72,
+        "frame_count": 118,
+        "duration_sec": 4.72,
+        "word_count": 8
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S17",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S17",
+        "provenance_hash": "d2bf43899ae61a8d",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s07_clip_0002.mp4",
+      "audio_file": "grid_s07_clip_0002.wav",
+      "transcript_file": "grid_s07_clip_0002.txt",
+      "mouth_file": "grid_s07_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s07",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.72,
+        "frame_count": 118,
+        "duration_sec": 4.72,
+        "word_count": 8
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S07",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S07",
+        "provenance_hash": "fdfb01e0ce8686fe",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s12_clip_0001.mp4",
+      "audio_file": "grid_s12_clip_0001.wav",
+      "transcript_file": "grid_s12_clip_0001.txt",
+      "mouth_file": "grid_s12_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s12",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S12",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S12",
+        "provenance_hash": "7dca9b9e0c773371",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s04_clip_0002.mp4",
+      "audio_file": "grid_s04_clip_0002.wav",
+      "transcript_file": "grid_s04_clip_0002.txt",
+      "mouth_file": "grid_s04_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s04",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.28,
+        "frame_count": 132,
+        "duration_sec": 5.28,
+        "word_count": 10
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S04",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S04",
+        "provenance_hash": "ec4fa2dc5ae15884",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s20_clip_0001.mp4",
+      "audio_file": "grid_s20_clip_0001.wav",
+      "transcript_file": "grid_s20_clip_0001.txt",
+      "mouth_file": "grid_s20_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s20",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.28,
+        "frame_count": 132,
+        "duration_sec": 5.28,
+        "word_count": 10
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S20",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S20",
+        "provenance_hash": "6fda1bbdae388ece",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s01_clip_0004.mp4",
+      "audio_file": "grid_s01_clip_0004.wav",
+      "transcript_file": "grid_s01_clip_0004.txt",
+      "mouth_file": "grid_s01_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s01",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S01",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S01",
+        "provenance_hash": "5666d21eb7ed24c9",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s05_clip_0002.mp4",
+      "audio_file": "grid_s05_clip_0002.wav",
+      "transcript_file": "grid_s05_clip_0002.txt",
+      "mouth_file": "grid_s05_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s05",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.28,
+        "frame_count": 132,
+        "duration_sec": 5.28,
+        "word_count": 10
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S05",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S05",
+        "provenance_hash": "549401d2b9386cc4",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s10_clip_0003.mp4",
+      "audio_file": "grid_s10_clip_0003.wav",
+      "transcript_file": "grid_s10_clip_0003.txt",
+      "mouth_file": "grid_s10_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s10",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.84,
+        "frame_count": 146,
+        "duration_sec": 5.84,
+        "word_count": 12
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S10",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S10",
+        "provenance_hash": "a4b170c1beb929ad",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s03_clip_0001.mp4",
+      "audio_file": "grid_s03_clip_0001.wav",
+      "transcript_file": "grid_s03_clip_0001.txt",
+      "mouth_file": "grid_s03_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s03",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S03",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S03",
+        "provenance_hash": "ad4eaa2c7bb4821c",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s17_clip_0002.mp4",
+      "audio_file": "grid_s17_clip_0002.wav",
+      "transcript_file": "grid_s17_clip_0002.txt",
+      "mouth_file": "grid_s17_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s17",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.72,
+        "frame_count": 118,
+        "duration_sec": 4.72,
+        "word_count": 8
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S17",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S17",
+        "provenance_hash": "d2bf43899ae61a8d",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s02_clip_0003.mp4",
+      "audio_file": "grid_s02_clip_0003.wav",
+      "transcript_file": "grid_s02_clip_0003.txt",
+      "mouth_file": "grid_s02_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s02",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.72,
+        "frame_count": 118,
+        "duration_sec": 4.72,
+        "word_count": 8
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S02",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S02",
+        "provenance_hash": "9aedd568a0e87894",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s10_clip_0001.mp4",
+      "audio_file": "grid_s10_clip_0001.wav",
+      "transcript_file": "grid_s10_clip_0001.txt",
+      "mouth_file": "grid_s10_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s10",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.28,
+        "frame_count": 132,
+        "duration_sec": 5.28,
+        "word_count": 10
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S10",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S10",
+        "provenance_hash": "a4b170c1beb929ad",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s19_clip_0001.mp4",
+      "audio_file": "grid_s19_clip_0001.wav",
+      "transcript_file": "grid_s19_clip_0001.txt",
+      "mouth_file": "grid_s19_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s19",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S19",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S19",
+        "provenance_hash": "7bb4d75ac3dc5a43",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s15_clip_0003.mp4",
+      "audio_file": "grid_s15_clip_0003.wav",
+      "transcript_file": "grid_s15_clip_0003.txt",
+      "mouth_file": "grid_s15_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s15",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.84,
+        "frame_count": 146,
+        "duration_sec": 5.84,
+        "word_count": 12
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S15",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S15",
+        "provenance_hash": "872696259cf48f71",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s12_clip_0003.mp4",
+      "audio_file": "grid_s12_clip_0003.wav",
+      "transcript_file": "grid_s12_clip_0003.txt",
+      "mouth_file": "grid_s12_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s12",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.72,
+        "frame_count": 118,
+        "duration_sec": 4.72,
+        "word_count": 8
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S12",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S12",
+        "provenance_hash": "7dca9b9e0c773371",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s20_clip_0003.mp4",
+      "audio_file": "grid_s20_clip_0003.wav",
+      "transcript_file": "grid_s20_clip_0003.txt",
+      "mouth_file": "grid_s20_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s20",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.84,
+        "frame_count": 146,
+        "duration_sec": 5.84,
+        "word_count": 12
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S20",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S20",
+        "provenance_hash": "6fda1bbdae388ece",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s04_clip_0004.mp4",
+      "audio_file": "grid_s04_clip_0004.wav",
+      "transcript_file": "grid_s04_clip_0004.txt",
+      "mouth_file": "grid_s04_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s04",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S04",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S04",
+        "provenance_hash": "ec4fa2dc5ae15884",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s07_clip_0004.mp4",
+      "audio_file": "grid_s07_clip_0004.wav",
+      "transcript_file": "grid_s07_clip_0004.txt",
+      "mouth_file": "grid_s07_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s07",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.28,
+        "frame_count": 132,
+        "duration_sec": 5.28,
+        "word_count": 10
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S07",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S07",
+        "provenance_hash": "fdfb01e0ce8686fe",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s11_clip_0002.mp4",
+      "audio_file": "grid_s11_clip_0002.wav",
+      "transcript_file": "grid_s11_clip_0002.txt",
+      "mouth_file": "grid_s11_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s11",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S11",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S11",
+        "provenance_hash": "c8d98533c68f12ee",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s07_clip_0003.mp4",
+      "audio_file": "grid_s07_clip_0003.wav",
+      "transcript_file": "grid_s07_clip_0003.txt",
+      "mouth_file": "grid_s07_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s07",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.72,
+        "frame_count": 118,
+        "duration_sec": 4.72,
+        "word_count": 8
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S07",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S07",
+        "provenance_hash": "fdfb01e0ce8686fe",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s13_clip_0001.mp4",
+      "audio_file": "grid_s13_clip_0001.wav",
+      "transcript_file": "grid_s13_clip_0001.txt",
+      "mouth_file": "grid_s13_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s13",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S13",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S13",
+        "provenance_hash": "d7dc886b5ec6646a",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s07_clip_0001.mp4",
+      "audio_file": "grid_s07_clip_0001.wav",
+      "transcript_file": "grid_s07_clip_0001.txt",
+      "mouth_file": "grid_s07_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s07",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S07",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S07",
+        "provenance_hash": "fdfb01e0ce8686fe",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s11_clip_0004.mp4",
+      "audio_file": "grid_s11_clip_0004.wav",
+      "transcript_file": "grid_s11_clip_0004.txt",
+      "mouth_file": "grid_s11_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s11",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S11",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S11",
+        "provenance_hash": "c8d98533c68f12ee",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s20_clip_0002.mp4",
+      "audio_file": "grid_s20_clip_0002.wav",
+      "transcript_file": "grid_s20_clip_0002.txt",
+      "mouth_file": "grid_s20_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s20",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.28,
+        "frame_count": 132,
+        "duration_sec": 5.28,
+        "word_count": 10
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S20",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S20",
+        "provenance_hash": "6fda1bbdae388ece",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s15_clip_0002.mp4",
+      "audio_file": "grid_s15_clip_0002.wav",
+      "transcript_file": "grid_s15_clip_0002.txt",
+      "mouth_file": "grid_s15_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s15",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.28,
+        "frame_count": 132,
+        "duration_sec": 5.28,
+        "word_count": 10
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S15",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S15",
+        "provenance_hash": "872696259cf48f71",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s03_clip_0004.mp4",
+      "audio_file": "grid_s03_clip_0004.wav",
+      "transcript_file": "grid_s03_clip_0004.txt",
+      "mouth_file": "grid_s03_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s03",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.72,
+        "frame_count": 118,
+        "duration_sec": 4.72,
+        "word_count": 8
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S03",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S03",
+        "provenance_hash": "ad4eaa2c7bb4821c",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s09_clip_0001.mp4",
+      "audio_file": "grid_s09_clip_0001.wav",
+      "transcript_file": "grid_s09_clip_0001.txt",
+      "mouth_file": "grid_s09_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s09",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S09",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S09",
+        "provenance_hash": "ef9e0cdcc4a2afa8",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s19_clip_0004.mp4",
+      "audio_file": "grid_s19_clip_0004.wav",
+      "transcript_file": "grid_s19_clip_0004.txt",
+      "mouth_file": "grid_s19_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s19",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S19",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S19",
+        "provenance_hash": "7bb4d75ac3dc5a43",
+        "verified_legal_to_train": true
+      }
+    }
+  ],
+  "val": [
+    {
+      "video_file": "grid_s15_clip_0004.mp4",
+      "audio_file": "grid_s15_clip_0004.wav",
+      "transcript_file": "grid_s15_clip_0004.txt",
+      "mouth_file": "grid_s15_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s15",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S15",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S15",
+        "provenance_hash": "872696259cf48f71",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s16_clip_0004.mp4",
+      "audio_file": "grid_s16_clip_0004.wav",
+      "transcript_file": "grid_s16_clip_0004.txt",
+      "mouth_file": "grid_s16_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s16",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S16",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S16",
+        "provenance_hash": "db406b0ba79e8ee0",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s18_clip_0002.mp4",
+      "audio_file": "grid_s18_clip_0002.wav",
+      "transcript_file": "grid_s18_clip_0002.txt",
+      "mouth_file": "grid_s18_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s18",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.84,
+        "frame_count": 146,
+        "duration_sec": 5.84,
+        "word_count": 12
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S18",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S18",
+        "provenance_hash": "fde2964b987acf85",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s10_clip_0002.mp4",
+      "audio_file": "grid_s10_clip_0002.wav",
+      "transcript_file": "grid_s10_clip_0002.txt",
+      "mouth_file": "grid_s10_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s10",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.28,
+        "frame_count": 132,
+        "duration_sec": 5.28,
+        "word_count": 10
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S10",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S10",
+        "provenance_hash": "a4b170c1beb929ad",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s08_clip_0002.mp4",
+      "audio_file": "grid_s08_clip_0002.wav",
+      "transcript_file": "grid_s08_clip_0002.txt",
+      "mouth_file": "grid_s08_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s08",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.84,
+        "frame_count": 146,
+        "duration_sec": 5.84,
+        "word_count": 12
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S08",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S08",
+        "provenance_hash": "19154206d9033afd",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s01_clip_0002.mp4",
+      "audio_file": "grid_s01_clip_0002.wav",
+      "transcript_file": "grid_s01_clip_0002.txt",
+      "mouth_file": "grid_s01_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s01",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S01",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S01",
+        "provenance_hash": "5666d21eb7ed24c9",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s14_clip_0001.mp4",
+      "audio_file": "grid_s14_clip_0001.wav",
+      "transcript_file": "grid_s14_clip_0001.txt",
+      "mouth_file": "grid_s14_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s14",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S14",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S14",
+        "provenance_hash": "56448fad9f0ed36c",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s06_clip_0002.mp4",
+      "audio_file": "grid_s06_clip_0002.wav",
+      "transcript_file": "grid_s06_clip_0002.txt",
+      "mouth_file": "grid_s06_clip_0002_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s06",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S06",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S06",
+        "provenance_hash": "892fdf963a122536",
+        "verified_legal_to_train": true
+      }
+    }
+  ],
+  "test": [
+    {
+      "video_file": "grid_s01_clip_0003.mp4",
+      "audio_file": "grid_s01_clip_0003.wav",
+      "transcript_file": "grid_s01_clip_0003.txt",
+      "mouth_file": "grid_s01_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s01",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S01",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S01",
+        "provenance_hash": "5666d21eb7ed24c9",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s06_clip_0004.mp4",
+      "audio_file": "grid_s06_clip_0004.wav",
+      "transcript_file": "grid_s06_clip_0004.txt",
+      "mouth_file": "grid_s06_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s06",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.0,
+        "frame_count": 125,
+        "duration_sec": 5.0,
+        "word_count": 9
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S06",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S06",
+        "provenance_hash": "892fdf963a122536",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s19_clip_0003.mp4",
+      "audio_file": "grid_s19_clip_0003.wav",
+      "transcript_file": "grid_s19_clip_0003.txt",
+      "mouth_file": "grid_s19_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s19",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.56,
+        "frame_count": 139,
+        "duration_sec": 5.56,
+        "word_count": 11
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S19",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S19",
+        "provenance_hash": "7bb4d75ac3dc5a43",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s06_clip_0001.mp4",
+      "audio_file": "grid_s06_clip_0001.wav",
+      "transcript_file": "grid_s06_clip_0001.txt",
+      "mouth_file": "grid_s06_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s06",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.72,
+        "frame_count": 118,
+        "duration_sec": 4.72,
+        "word_count": 8
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S06",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S06",
+        "provenance_hash": "892fdf963a122536",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s16_clip_0001.mp4",
+      "audio_file": "grid_s16_clip_0001.wav",
+      "transcript_file": "grid_s16_clip_0001.txt",
+      "mouth_file": "grid_s16_clip_0001_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s16",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.72,
+        "frame_count": 118,
+        "duration_sec": 4.72,
+        "word_count": 8
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S16",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S16",
+        "provenance_hash": "db406b0ba79e8ee0",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s18_clip_0004.mp4",
+      "audio_file": "grid_s18_clip_0004.wav",
+      "transcript_file": "grid_s18_clip_0004.txt",
+      "mouth_file": "grid_s18_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s18",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.72,
+        "frame_count": 118,
+        "duration_sec": 4.72,
+        "word_count": 8
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S18",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S18",
+        "provenance_hash": "fde2964b987acf85",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s04_clip_0003.mp4",
+      "audio_file": "grid_s04_clip_0003.wav",
+      "transcript_file": "grid_s04_clip_0003.txt",
+      "mouth_file": "grid_s04_clip_0003_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s04",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 5.56,
+        "frame_count": 139,
+        "duration_sec": 5.56,
+        "word_count": 11
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S04",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S04",
+        "provenance_hash": "ec4fa2dc5ae15884",
+        "verified_legal_to_train": true
+      }
+    },
+    {
+      "video_file": "grid_s13_clip_0004.mp4",
+      "audio_file": "grid_s13_clip_0004.wav",
+      "transcript_file": "grid_s13_clip_0004.txt",
+      "mouth_file": "grid_s13_clip_0004_mouth.npy",
+      "optional_metadata": {
+        "speaker_id": "grid_s13",
+        "language": "en",
+        "start_time": 0.0,
+        "end_time": 4.72,
+        "frame_count": 118,
+        "duration_sec": 4.72,
+        "word_count": 8
+      },
+      "legal_provenance": {
+        "consent_id": "CONSENT-GRID-S13",
+        "license_type": "GRID-Open-Academic-License",
+        "speaker_alias": "GRID Contributor S13",
+        "provenance_hash": "d7dc886b5ec6646a",
+        "verified_legal_to_train": true
+      }
+    }
+  ]
+}

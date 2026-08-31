@@ -1,0 +1,1 @@
+Exporting subtitles as SRT and WebVTT allows seamless video integration.
