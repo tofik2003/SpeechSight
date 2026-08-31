@@ -1,0 +1,19 @@
+{
+  "model_name": "SpeechSight AVSR Neural Net",
+  "architecture": "3D Spatiotemporal Lip Encoder + 1D Acoustic CNN + Cross-Modal Attention + CTC Decoder",
+  "training_corpus": "SpeechSight_AVSR_Dataset",
+  "legal_compliance": {
+    "consent_verified": true,
+    "licenses_included": [
+      "CC-BY-4.0",
+      "GRID-Open-Academic",
+      "LRS3-Research"
+    ],
+    "data_privacy": "Zero biometric harvesting; temporary frames shredded."
+  },
+  "performance": {
+    "validation_word_error_rate": "100.00%",
+    "target_prototype_wer": "< 30%"
+  },
+  "exported_at": "2026-08-31 11:34:54 UTC"
+}

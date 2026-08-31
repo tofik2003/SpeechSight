@@ -1,0 +1,1091 @@
+{
+  "grid_s01": {
+    "speaker_id": "grid_s01",
+    "speaker_name_or_alias": "GRID Contributor S01",
+    "consent_id": "CONSENT-GRID-S01",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "5666d21eb7ed24c9",
+    "commercial_viable": true
+  },
+  "grid_s02": {
+    "speaker_id": "grid_s02",
+    "speaker_name_or_alias": "GRID Contributor S02",
+    "consent_id": "CONSENT-GRID-S02",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "9aedd568a0e87894",
+    "commercial_viable": true
+  },
+  "grid_s03": {
+    "speaker_id": "grid_s03",
+    "speaker_name_or_alias": "GRID Contributor S03",
+    "consent_id": "CONSENT-GRID-S03",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "ad4eaa2c7bb4821c",
+    "commercial_viable": true
+  },
+  "grid_s04": {
+    "speaker_id": "grid_s04",
+    "speaker_name_or_alias": "GRID Contributor S04",
+    "consent_id": "CONSENT-GRID-S04",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "ec4fa2dc5ae15884",
+    "commercial_viable": true
+  },
+  "grid_s05": {
+    "speaker_id": "grid_s05",
+    "speaker_name_or_alias": "GRID Contributor S05",
+    "consent_id": "CONSENT-GRID-S05",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "549401d2b9386cc4",
+    "commercial_viable": true
+  },
+  "grid_s06": {
+    "speaker_id": "grid_s06",
+    "speaker_name_or_alias": "GRID Contributor S06",
+    "consent_id": "CONSENT-GRID-S06",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "892fdf963a122536",
+    "commercial_viable": true
+  },
+  "grid_s07": {
+    "speaker_id": "grid_s07",
+    "speaker_name_or_alias": "GRID Contributor S07",
+    "consent_id": "CONSENT-GRID-S07",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "fdfb01e0ce8686fe",
+    "commercial_viable": true
+  },
+  "grid_s08": {
+    "speaker_id": "grid_s08",
+    "speaker_name_or_alias": "GRID Contributor S08",
+    "consent_id": "CONSENT-GRID-S08",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "19154206d9033afd",
+    "commercial_viable": true
+  },
+  "grid_s09": {
+    "speaker_id": "grid_s09",
+    "speaker_name_or_alias": "GRID Contributor S09",
+    "consent_id": "CONSENT-GRID-S09",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "ef9e0cdcc4a2afa8",
+    "commercial_viable": true
+  },
+  "grid_s10": {
+    "speaker_id": "grid_s10",
+    "speaker_name_or_alias": "GRID Contributor S10",
+    "consent_id": "CONSENT-GRID-S10",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "a4b170c1beb929ad",
+    "commercial_viable": true
+  },
+  "grid_s11": {
+    "speaker_id": "grid_s11",
+    "speaker_name_or_alias": "GRID Contributor S11",
+    "consent_id": "CONSENT-GRID-S11",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "c8d98533c68f12ee",
+    "commercial_viable": true
+  },
+  "grid_s12": {
+    "speaker_id": "grid_s12",
+    "speaker_name_or_alias": "GRID Contributor S12",
+    "consent_id": "CONSENT-GRID-S12",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "7dca9b9e0c773371",
+    "commercial_viable": true
+  },
+  "grid_s13": {
+    "speaker_id": "grid_s13",
+    "speaker_name_or_alias": "GRID Contributor S13",
+    "consent_id": "CONSENT-GRID-S13",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "d7dc886b5ec6646a",
+    "commercial_viable": true
+  },
+  "grid_s14": {
+    "speaker_id": "grid_s14",
+    "speaker_name_or_alias": "GRID Contributor S14",
+    "consent_id": "CONSENT-GRID-S14",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "56448fad9f0ed36c",
+    "commercial_viable": true
+  },
+  "grid_s15": {
+    "speaker_id": "grid_s15",
+    "speaker_name_or_alias": "GRID Contributor S15",
+    "consent_id": "CONSENT-GRID-S15",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "872696259cf48f71",
+    "commercial_viable": true
+  },
+  "grid_s16": {
+    "speaker_id": "grid_s16",
+    "speaker_name_or_alias": "GRID Contributor S16",
+    "consent_id": "CONSENT-GRID-S16",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "db406b0ba79e8ee0",
+    "commercial_viable": true
+  },
+  "grid_s17": {
+    "speaker_id": "grid_s17",
+    "speaker_name_or_alias": "GRID Contributor S17",
+    "consent_id": "CONSENT-GRID-S17",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "d2bf43899ae61a8d",
+    "commercial_viable": true
+  },
+  "grid_s18": {
+    "speaker_id": "grid_s18",
+    "speaker_name_or_alias": "GRID Contributor S18",
+    "consent_id": "CONSENT-GRID-S18",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "fde2964b987acf85",
+    "commercial_viable": true
+  },
+  "grid_s19": {
+    "speaker_id": "grid_s19",
+    "speaker_name_or_alias": "GRID Contributor S19",
+    "consent_id": "CONSENT-GRID-S19",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "7bb4d75ac3dc5a43",
+    "commercial_viable": true
+  },
+  "grid_s20": {
+    "speaker_id": "grid_s20",
+    "speaker_name_or_alias": "GRID Contributor S20",
+    "consent_id": "CONSENT-GRID-S20",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "6fda1bbdae388ece",
+    "commercial_viable": true
+  },
+  "grid_s21": {
+    "speaker_id": "grid_s21",
+    "speaker_name_or_alias": "GRID Contributor S21",
+    "consent_id": "CONSENT-GRID-S21",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "d8b2fe9ed2118559",
+    "commercial_viable": true
+  },
+  "grid_s22": {
+    "speaker_id": "grid_s22",
+    "speaker_name_or_alias": "GRID Contributor S22",
+    "consent_id": "CONSENT-GRID-S22",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "813f9fe18dfe4efa",
+    "commercial_viable": true
+  },
+  "grid_s23": {
+    "speaker_id": "grid_s23",
+    "speaker_name_or_alias": "GRID Contributor S23",
+    "consent_id": "CONSENT-GRID-S23",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "989fe283703d76ce",
+    "commercial_viable": true
+  },
+  "grid_s24": {
+    "speaker_id": "grid_s24",
+    "speaker_name_or_alias": "GRID Contributor S24",
+    "consent_id": "CONSENT-GRID-S24",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "d433fb0c29dd5fe6",
+    "commercial_viable": true
+  },
+  "grid_s25": {
+    "speaker_id": "grid_s25",
+    "speaker_name_or_alias": "GRID Contributor S25",
+    "consent_id": "CONSENT-GRID-S25",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "e5df6c5d961004a1",
+    "commercial_viable": true
+  },
+  "grid_s26": {
+    "speaker_id": "grid_s26",
+    "speaker_name_or_alias": "GRID Contributor S26",
+    "consent_id": "CONSENT-GRID-S26",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "d991e089732e1734",
+    "commercial_viable": true
+  },
+  "grid_s27": {
+    "speaker_id": "grid_s27",
+    "speaker_name_or_alias": "GRID Contributor S27",
+    "consent_id": "CONSENT-GRID-S27",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "5918373d2e842b3f",
+    "commercial_viable": true
+  },
+  "grid_s28": {
+    "speaker_id": "grid_s28",
+    "speaker_name_or_alias": "GRID Contributor S28",
+    "consent_id": "CONSENT-GRID-S28",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "385501dde0fc2957",
+    "commercial_viable": true
+  },
+  "grid_s29": {
+    "speaker_id": "grid_s29",
+    "speaker_name_or_alias": "GRID Contributor S29",
+    "consent_id": "CONSENT-GRID-S29",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "b39eafde42d57a0e",
+    "commercial_viable": true
+  },
+  "grid_s30": {
+    "speaker_id": "grid_s30",
+    "speaker_name_or_alias": "GRID Contributor S30",
+    "consent_id": "CONSENT-GRID-S30",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "ca2d71c55b227d3b",
+    "commercial_viable": true
+  },
+  "grid_s31": {
+    "speaker_id": "grid_s31",
+    "speaker_name_or_alias": "GRID Contributor S31",
+    "consent_id": "CONSENT-GRID-S31",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "b5f05c4b4be830d3",
+    "commercial_viable": true
+  },
+  "grid_s32": {
+    "speaker_id": "grid_s32",
+    "speaker_name_or_alias": "GRID Contributor S32",
+    "consent_id": "CONSENT-GRID-S32",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "7c88367600c8beba",
+    "commercial_viable": true
+  },
+  "grid_s33": {
+    "speaker_id": "grid_s33",
+    "speaker_name_or_alias": "GRID Contributor S33",
+    "consent_id": "CONSENT-GRID-S33",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "9dffd3dfee366e7d",
+    "commercial_viable": true
+  },
+  "grid_s34": {
+    "speaker_id": "grid_s34",
+    "speaker_name_or_alias": "GRID Contributor S34",
+    "consent_id": "CONSENT-GRID-S34",
+    "license_type": "GRID-Open-Academic-License",
+    "consent_date": "2006-09-01",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "scientific_benchmarking"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_resolution",
+      "studio_lighting",
+      "front_facing"
+    ],
+    "provenance_hash": "efe92bde9ab95ca2",
+    "commercial_viable": true
+  },
+  "speaker_001": {
+    "speaker_id": "speaker_001",
+    "speaker_name_or_alias": "Alex M.",
+    "consent_id": "CONSENT-SS-SPEAKER_001",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "natural_light",
+      "glasses",
+      "normal_speed"
+    ],
+    "provenance_hash": "d60a9b97e0595746",
+    "commercial_viable": true
+  },
+  "speaker_002": {
+    "speaker_id": "speaker_002",
+    "speaker_name_or_alias": "Priya K.",
+    "consent_id": "CONSENT-SS-SPEAKER_002",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "studio_light",
+      "fast_speed",
+      "front_facing"
+    ],
+    "provenance_hash": "4b827c037834fe69",
+    "commercial_viable": true
+  },
+  "speaker_003": {
+    "speaker_id": "speaker_003",
+    "speaker_name_or_alias": "Carlos R.",
+    "consent_id": "CONSENT-SS-SPEAKER_003",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "warm_light",
+      "beard_moustache",
+      "slow_speed"
+    ],
+    "provenance_hash": "71eb86b81f823dcc",
+    "commercial_viable": true
+  },
+  "speaker_004": {
+    "speaker_id": "speaker_004",
+    "speaker_name_or_alias": "Fatima Z.",
+    "consent_id": "CONSENT-SS-SPEAKER_004",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "diffused_light",
+      "normal_speed",
+      "angled"
+    ],
+    "provenance_hash": "11e4efb1d9d16b64",
+    "commercial_viable": true
+  },
+  "speaker_005": {
+    "speaker_id": "speaker_005",
+    "speaker_name_or_alias": "Liam T.",
+    "consent_id": "CONSENT-SS-SPEAKER_005",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "outdoor_shade",
+      "casual_speed",
+      "front_facing"
+    ],
+    "provenance_hash": "03ca9a86c82128dc",
+    "commercial_viable": true
+  },
+  "speaker_006": {
+    "speaker_id": "speaker_006",
+    "speaker_name_or_alias": "Aarav N.",
+    "consent_id": "CONSENT-SS-SPEAKER_006",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "office_light",
+      "bilingual_marathi_english"
+    ],
+    "provenance_hash": "5937ff7ff9a560df",
+    "commercial_viable": true
+  },
+  "speaker_007": {
+    "speaker_id": "speaker_007",
+    "speaker_name_or_alias": "Mei L.",
+    "consent_id": "CONSENT-SS-SPEAKER_007",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "bright_led",
+      "fast_speed",
+      "front_facing"
+    ],
+    "provenance_hash": "d0a8df2406a6a908",
+    "commercial_viable": true
+  },
+  "speaker_008": {
+    "speaker_id": "speaker_008",
+    "speaker_name_or_alias": "David B.",
+    "consent_id": "CONSENT-SS-SPEAKER_008",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "dim_ambient",
+      "deep_voice",
+      "beard"
+    ],
+    "provenance_hash": "6288f0cb1ef09715",
+    "commercial_viable": true
+  },
+  "speaker_009": {
+    "speaker_id": "speaker_009",
+    "speaker_name_or_alias": "Ananya S.",
+    "consent_id": "CONSENT-SS-SPEAKER_009",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "clear_studio",
+      "hindi_english_code_switch"
+    ],
+    "provenance_hash": "c60f1f4390ce6799",
+    "commercial_viable": true
+  },
+  "speaker_010": {
+    "speaker_id": "speaker_010",
+    "speaker_name_or_alias": "Jean P.",
+    "consent_id": "CONSENT-SS-SPEAKER_010",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "daylight",
+      "french_accent",
+      "mustache"
+    ],
+    "provenance_hash": "bcc560361652cdbe",
+    "commercial_viable": true
+  },
+  "speaker_011": {
+    "speaker_id": "speaker_011",
+    "speaker_name_or_alias": "Kavita D.",
+    "consent_id": "CONSENT-SS-SPEAKER_011",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "studio_light",
+      "marathi_fluent"
+    ],
+    "provenance_hash": "71e8369a5eb3fa59",
+    "commercial_viable": true
+  },
+  "speaker_012": {
+    "speaker_id": "speaker_012",
+    "speaker_name_or_alias": "Marcus W.",
+    "consent_id": "CONSENT-SS-SPEAKER_012",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "high_contrast",
+      "expressive_mouth"
+    ],
+    "provenance_hash": "8ca73c8a504cc94f",
+    "commercial_viable": true
+  },
+  "speaker_013": {
+    "speaker_id": "speaker_013",
+    "speaker_name_or_alias": "Elena V.",
+    "consent_id": "CONSENT-SS-SPEAKER_013",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "even_lighting",
+      "spanish_fluent"
+    ],
+    "provenance_hash": "b844c1990be0fc59",
+    "commercial_viable": true
+  },
+  "speaker_014": {
+    "speaker_id": "speaker_014",
+    "speaker_name_or_alias": "Rohan G.",
+    "consent_id": "CONSENT-SS-SPEAKER_014",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "fluorescent_light",
+      "glasses",
+      "beard"
+    ],
+    "provenance_hash": "607ae89340793cd1",
+    "commercial_viable": true
+  },
+  "speaker_015": {
+    "speaker_id": "speaker_015",
+    "speaker_name_or_alias": "Sophie L.",
+    "consent_id": "CONSENT-SS-SPEAKER_015",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "daylight",
+      "soft_spoken"
+    ],
+    "provenance_hash": "f8457660e1481ded",
+    "commercial_viable": true
+  },
+  "speaker_016": {
+    "speaker_id": "speaker_016",
+    "speaker_name_or_alias": "Vikram J.",
+    "consent_id": "CONSENT-SS-SPEAKER_016",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "warm_light",
+      "hindi_fluent"
+    ],
+    "provenance_hash": "bad7cdca03c67455",
+    "commercial_viable": true
+  },
+  "speaker_017": {
+    "speaker_id": "speaker_017",
+    "speaker_name_or_alias": "Chloe D.",
+    "consent_id": "CONSENT-SS-SPEAKER_017",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "bright_light",
+      "french_fluent"
+    ],
+    "provenance_hash": "c3dac2f23ff779c4",
+    "commercial_viable": true
+  },
+  "speaker_018": {
+    "speaker_id": "speaker_018",
+    "speaker_name_or_alias": "Tariq K.",
+    "consent_id": "CONSENT-SS-SPEAKER_018",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "directional_light",
+      "deep_voice"
+    ],
+    "provenance_hash": "5c087cbf01a05188",
+    "commercial_viable": true
+  },
+  "speaker_019": {
+    "speaker_id": "speaker_019",
+    "speaker_name_or_alias": "Sunita P.",
+    "consent_id": "CONSENT-SS-SPEAKER_019",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "clear_light",
+      "marathi_fluent"
+    ],
+    "provenance_hash": "7eaffa611308d2c9",
+    "commercial_viable": true
+  },
+  "speaker_020": {
+    "speaker_id": "speaker_020",
+    "speaker_name_or_alias": "Oliver H.",
+    "consent_id": "CONSENT-SS-SPEAKER_020",
+    "license_type": "CC-BY-4.0",
+    "consent_date": "2026-08-31",
+    "permitted_uses": [
+      "visual_speech_recognition_training",
+      "audio_speech_recognition_training",
+      "active_speaker_detection_evaluation",
+      "accessibility_application_deployment"
+    ],
+    "age_group": "adult_consenting",
+    "recording_conditions": [
+      "studio_light",
+      "crisp_articulation"
+    ],
+    "provenance_hash": "da69f9969abd2677",
+    "commercial_viable": true
+  }
+}
